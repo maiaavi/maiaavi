@@ -8,17 +8,17 @@
   💻 Desenvolvedora Front-End | 💐 Apaixonada por criar experiências visuais
 </p>
 
----
+##
 
-### 👩‍💻 Sobre mim
+<h3>👩‍💻 Sobre mim</h3> 
 
 - 🎓 Formada em **Bacharelado em Tecnologia da Informação**
 - 👩‍💻 Estagiária de desenvolvimento com foco em **React, TypeScript e interfaces responsivas**
 - 💡 Curiosa, detalhista e criativa
 
----
+##
 
-### 🚀 Tecnologias que uso
+<h3>🚀 Tecnologias que uso</h3> 
 
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,23 +31,23 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
----
+##
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3> 
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maiaavi&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiaavi&layout=compact&theme=radical" />
 </div>
 
----
+##
 
-### 🌐 Onde me encontrar
+<h3>🌐 Onde me encontrar</h3> 
 
 - 💌 Email: [vismaia3006@gmail.com](mailto:vismaia3006@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/victoria-maia](https://www.linkedin.com/in/victoria-maia)
 
----
+##
 
 <p align="center">
   🌹 Obrigada por visitar meu perfil :)
