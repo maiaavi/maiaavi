@@ -45,7 +45,7 @@
 <h3>🌐 Onde me encontrar</h3> 
 
 - 💌 Email: [vismaia3006@gmail.com](mailto:vismaia3006@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/victoria-maia](https://www.linkedin.com/in/victoria-maia)
+- 💼 LinkedIn: [linkedin.com/in/victoria-maia](https://www.linkedin.com/in/victoria-maia-18319b226/)
 
 ##
 
