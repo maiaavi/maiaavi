@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">✨ Olá! Eu sou a Victória Maia ✨</h1>
 
-<!--
-**maiaavi/maiaavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJhMmRqczE0MnNjdzNrMDl0emhnYzJ4Z3M1emhyNHl6aW0wdXo1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desenvolvedora Front-End | 💐 Apaixonada por criar experiências visuais
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 Sobre mim
+
+- 🎓 Formada em **Bacharelado em Tecnologia da Informação**
+- 👩‍💻 Estagiária de desenvolvimento com foco em **React, TypeScript e interfaces responsivas**
+- 💡 Curiosa, detalhista e criativa
+
+---
+
+### 🚀 Tecnologias que uso
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maiaavi&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiaavi&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+- 💌 Email: [vismaia3006@gmail.com](mailto:vismaia3006@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/victoria-maia](https://www.linkedin.com/in/victoria-maia)
+
+---
+
+<p align="center">
+  🌹 Obrigada por visitar meu perfil :)
+</p>
