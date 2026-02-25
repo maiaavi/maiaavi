@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá! Eu sou a Victória Maia ✨</h1>
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/digitando-gif-14269359632214086573" width="200"/>
+  <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="200"/>
 </p>
 
 <p align="center">
