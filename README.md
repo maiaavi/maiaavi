@@ -13,7 +13,7 @@
 <h3>👩‍💻 Sobre mim</h3> 
 
 - 🎓 Formada em **Bacharelado em Tecnologia da Informação**
-- 👩‍💻 Estagiária de desenvolvimento com foco em **React, TypeScript e interfaces responsivas**
+- 👩‍💻 Desenvolvedora Front-End com foco em **React, TypeScript e interfaces responsivas**
 - 💡 Curiosa, detalhista e criativa
 
 ##
@@ -28,15 +28,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-##
-
-<h3>📊 GitHub Stats</h3> 
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maiaavi&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiaavi&layout=compact&theme=radical" />
 </div>
 
 ##
